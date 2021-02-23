@@ -45,4 +45,4 @@ elif (isAltotrigliceridos) :
     resultado = Alto
 else:
     resultado = Muyalto
-print (resultado)|
+print(resultado)
