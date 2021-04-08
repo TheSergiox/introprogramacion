@@ -46,7 +46,14 @@ def potenciar (base = 0, exponente = 1):
     potencia = base ** exponente
     return potencia
 
+#------------Funciones dependientes de otras----------#
+def calcular (operacion, nuemroA, nuemroB):
+    print(operacion(nuemroA,nuemroB))
+
+
 print(resta(83,87))
 print(multiplicar(83,87))
 print(dividir(83,87))
 print(potenciar(5,6))
+
+calcular(multiplicar,63,67)
