@@ -17,7 +17,7 @@ lista2 = [564654,546,64543,2565,547,57865]
 lindesing(30,"#")
 mostrarlista(lista)
 lindesing(30,"*")
-mostrarlista(lista)
+mostrarlista(lista2)
 
 #----------Sumar dos numeros----------#
 def sumar (a= 0,b = 0):
