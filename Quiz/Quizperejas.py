@@ -1,6 +1,6 @@
 #-------Quiz #3----------#
-Integrantes1: "Wlliam Velez"
-Integrante2: "Sergio Gómez"
+Integrantes1 = "Wlliam Velez"
+Integrante2 = "Sergio Gómez"
 #--------Punto 1 ---------#
 #--------Entrada al codigo-----------#
 class ElementosDigitales():
