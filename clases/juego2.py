@@ -6,9 +6,9 @@ mensaje_saludar = """
         a este juego
     !!!juguemos!!!"""
 pregunta_numero = """
-        En este juego deber asertar un numero entero
+        En este juego debe asertar un numero entero
         que va desde 1 a 10, la idea es que 
-        lo puedas intentarlo hasta que se acaben
+        lo puedas intentar hasta que se te acaben
         las vidas, si pierdes todas las vidas se 
         reiniciara y tendras otro numero oculto
         Mucha suerte 
